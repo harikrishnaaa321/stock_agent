@@ -1,0 +1,8 @@
+langchain
+langgraph
+openai
+openrouter
+pandas
+numpy
+yfinance
+plotly
